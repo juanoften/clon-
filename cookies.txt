@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+juegosdigitales.org	TRUE	/	FALSE	1999999999	yith_wcwl_session_d1a7bbfb65b61d3e43f902d6fc2c5128	%7B%22session_id%22%3A%22a9d585c9f4b09af4f6f95ab6e1172159%22%2C%22session_expiration%22%3A1664627034%2C%22session_expiring%22%3A1664623434%2C%22cookie_hash%22%3A%224939311d49a34998a8fc3241d6f7224d%22%7D
+juegosdigitales.org	TRUE	/	FALSE	1999999999	woocommerce_recently_viewed	1809%7C1789%7C15543%7C1805%7C22265%7C208070%7C332114%7C17271%7C89272%7C64045%7C63402%7C6339%7C332004%7C149968%7C89286
+
